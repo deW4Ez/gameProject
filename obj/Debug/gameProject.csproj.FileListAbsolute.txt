@@ -1,0 +1,11 @@
+D:\gameProject\gameProject\obj\Debug\gameProject.csprojAssemblyReference.cache
+D:\gameProject\gameProject\obj\Debug\gameProject.Form1.resources
+D:\gameProject\gameProject\obj\Debug\gameProject.Properties.Resources.resources
+D:\gameProject\gameProject\obj\Debug\gameProject.Resource.resources
+D:\gameProject\gameProject\obj\Debug\gameProject.csproj.GenerateResource.cache
+D:\gameProject\gameProject\obj\Debug\gameProject.csproj.CoreCompileInputs.cache
+D:\gameProject\gameProject\bin\Debug\gameProject.exe.config
+D:\gameProject\gameProject\bin\Debug\gameProject.exe
+D:\gameProject\gameProject\bin\Debug\gameProject.pdb
+D:\gameProject\gameProject\obj\Debug\gameProject.exe
+D:\gameProject\gameProject\obj\Debug\gameProject.pdb
